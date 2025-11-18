@@ -1,0 +1,25 @@
+# Bash Mini-Project .gitignore
+# This is a starter .gitignore file
+# Students: You need to extend this file as part of Task 1.6
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python (if any Python scripts are used)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TODO: Students should add the following:
+# - Temporary files (*.tmp, *~)
+# - Output directories (results/, output/)
+# - Any editor-specific backup files
