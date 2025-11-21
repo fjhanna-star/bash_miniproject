@@ -1,17 +1,18 @@
-git add .
-git commit -m "Initial setup: create scripts and results directories"
-git pus# Bash Mini-Project: Genomic Data Analys# Student Information
-# Student Information
-**Name**: FATHY JACOB FATHY HANNA
-**Student ID**: REG MB300-0002/2024
-**Course**: PUB 3127 - Computing for Biologists
-**Date Started**: 21/11/2025
+git add README.md
+git commit -m "Complete assignment: final documentation"
+git push
+# Bash Mini-Project: Genomic Data Analysis
+## Student Information
+**Name**: FATHY JACOB FATHY HANNA  
+**Student ID**: REG MB300-0002/2024  
+**Course**: PUB 3127 - Computing for Biologists  
+**Date Started**: 21/11/2025  
 **Date Completed**: 
 
 ---
 
 ## Project Description
-This project analyzes genomic scaffold data and protein database records using bash command-line tools. The analysis includes:
+This project analyzes genomic scaffold data and protein database records using bash commands:
 - Counting and filtering DNA sequences from FASTA files
 - Identifying high-quality scaffolds based on length and coverage criteria
 - Extracting and analyzing protein information from database files
@@ -19,6 +20,7 @@ This project analyzes genomic scaffold data and protein database records using b
 
 ---
 
+## Repository Contents
 ## Repository Contents
 
 ```
