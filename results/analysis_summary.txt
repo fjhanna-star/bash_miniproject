@@ -1,0 +1,5 @@
+=== ANALYSIS SUMMARY ===
+Date: Fri Nov 21 04:50:47 +03 2025
+Total sequences: 35079
+High-quality scaffolds: 33
+Total protein entries: Total protein entries: 907
