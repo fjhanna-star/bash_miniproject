@@ -1,11 +1,12 @@
-# Bash Mini-Project: Genomic Data Analysis
-
-## Student Information
-**Name**: [TODO: Your full name]
-**Student ID**: [TODO: Your student ID]
+git add .
+git commit -m "Initial setup: create scripts and results directories"
+git pus# Bash Mini-Project: Genomic Data Analys# Student Information
+# Student Information
+**Name**: FATHY JACOB FATHY HANNA
+**Student ID**: REG MB300-0002/2024
 **Course**: PUB 3127 - Computing for Biologists
-**Date Started**: [TODO: Date you started the project]
-**Date Completed**: [TODO: Date you completed the project]
+**Date Started**: 21/11/2025
+**Date Completed**: 
 
 ---
 
