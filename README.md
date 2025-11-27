@@ -11,13 +11,25 @@ git push
 
 ---
 
+
+
 ## Project Description
 This project analyzes genomic scaffold data and protein database records using bash commands:
 - Counting and filtering DNA sequences from FASTA files
 - Identifying high-quality scaffolds based on length and coverage criteria
 - Extracting and analyzing protein information from database files
 - Automating bioinformatics workflows with bash scripts
+## Challenges I Faced
 
+- **File paths**: Had trouble finding the right directories at first
+- **Command syntax**: Some commands didn't work as expected  
+- **Protein file format**: Took time to understand the structure
+- **Error handling**: Learned to check if files exist before processing
+
+## What I Learned
+- How to navigate directories properly
+- Better understanding of bash commands
+- Importance of testing small parts first
 ---
 
 ## Repository Contents
